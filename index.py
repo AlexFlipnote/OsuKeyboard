@@ -33,7 +33,7 @@ class OsuKeyboard:
         if key_code in self.ignore_keys:
             return None
 
-        if key_code == 8:  # Backspace
+        if key_code in [8, 46]:  # Backspace / Delete
             self.play("key-delete.mp3")
         elif key_code == 20:  # Caps key
             self.play("key-caps.mp3")
