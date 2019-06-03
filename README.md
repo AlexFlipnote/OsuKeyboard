@@ -5,6 +5,9 @@ A nice little software that simulates the typing sound from Osu!
 Click [here](https://github.com/AlexFlipnote/OsuKeyboard/raw/master/osukeyboard.exe) to download it.
 If Windows Defender comes up and warns you, the only reason it does such is due to unsigned software. (Not paying for that..)
 
+## Discord
+If you want to visit my Discord: https://discord.gg/DpxkY3x
+
 ## Requirements
 - Python 3.6 or above
 - Windows 7 or above
